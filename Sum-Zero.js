@@ -14,5 +14,4 @@ function sumOf3Integers() {
         }
     }
 }
-
 sumOf3Integers(randomArray);
